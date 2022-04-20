@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/siu/static/css/main.ae26c243.css",
+    "main.js": "/siu/static/js/main.a72a3c48.js",
+    "static/js/787.24a790e7.chunk.js": "/siu/static/js/787.24a790e7.chunk.js",
+    "static/media/rectangleCarrousel.png": "/siu/static/media/rectangleCarrousel.9bba3ff6d5ad005706df.png",
+    "static/media/meta_manager.svg": "/siu/static/media/meta_manager.47d6fcb07d664b344a48c7817bdf267e.svg",
+    "static/media/background.png": "/siu/static/media/background.3ae43db6e4df693a56b9.png",
+    "static/media/test-founders-grotesk-condensed-regular.ttf": "/siu/static/media/test-founders-grotesk-condensed-regular.047b898d8d5c94212c78.ttf",
+    "static/media/test-founders-grotesk-condensed-medium.ttf": "/siu/static/media/test-founders-grotesk-condensed-medium.d1fbbc42803af0511ced.ttf",
+    "static/media/button.png": "/siu/static/media/button.5773d26ab8d99d9ffde2.png",
+    "static/media/test-founders-grotesk-condensed-semibold.ttf": "/siu/static/media/test-founders-grotesk-condensed-semibold.5af5230e7f31d08a4709.ttf",
+    "static/media/opensea.svg": "/siu/static/media/opensea.b6766df040d2b35410514762d667d6c4.svg",
+    "static/media/BreitTest.ttf": "/siu/static/media/BreitTest.b642b5e6b8d52e2351c7.ttf",
+    "static/media/ticket.svg": "/siu/static/media/ticket.b664e2c895e7b442b248627a824a53dc.svg",
+    "static/media/jacket.svg": "/siu/static/media/jacket.4a6828087871086a56ecd22b8ebc9c7c.svg",
+    "static/media/dash.svg": "/siu/static/media/dash.1af4f86360b0838d5b63debc7de8949b.svg",
+    "static/media/stadium.svg": "/siu/static/media/stadium.b5e0e9091f807ea80207cba088dc0a08.svg",
+    "static/media/collab.svg": "/siu/static/media/collab.0453d84520f055407baa3e0770670f03.svg",
+    "static/media/instagram.svg": "/siu/static/media/instagram.d2fab1c3a823a8e141da41b9a073aeaa.svg",
+    "static/media/discord.svg": "/siu/static/media/discord.0b44aaf91f426fb6a352a76c99f28c43.svg",
+    "static/media/twitter.svg": "/siu/static/media/twitter.ab682067a90478ee8949100e530f9805.svg",
+    "index.html": "/siu/index.html",
+    "main.ae26c243.css.map": "/siu/static/css/main.ae26c243.css.map",
+    "main.a72a3c48.js.map": "/siu/static/js/main.a72a3c48.js.map",
+    "787.24a790e7.chunk.js.map": "/siu/static/js/787.24a790e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae26c243.css",
+    "static/js/main.a72a3c48.js"
+  ]
+}
